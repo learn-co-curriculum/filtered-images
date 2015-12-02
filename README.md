@@ -13,3 +13,5 @@
 ## Make it Right
 
   1. To be honest this is a bit overkill for such a small background operation...but go ahead and make an NSOperation Subclass and put the operation in the subclass.
+
+<a href='https://learn.co/lessons/filtered-images' data-visibility='hidden'>View this lesson on Learn.co</a>
