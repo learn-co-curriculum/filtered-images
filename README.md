@@ -14,4 +14,4 @@
 
   1. To be honest this is a bit overkill for such a small background operation...but go ahead and make an NSOperation Subclass and put the operation in the subclass.
 
-<a href='https://learn.co/lessons/filtered-images' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/filtered-images' title='Filtered Images'>Filtered Images</a> on Learn.co and start learning to code for free.</p>
